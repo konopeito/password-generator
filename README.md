@@ -30,5 +30,7 @@ This project is to develope a functional password generator with the specified c
 Class Instructor also added example snippets
 Tutorial
 https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+https://www.w3schools.com/howto/howto_js_toggle_password.asp
 
 ## Mockup
+https://github.com/JFritsch04/password-generator/blob/6106664aaa9071f40b610750fcdd8ff283e6528f/Mockup.png

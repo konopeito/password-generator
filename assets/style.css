@@ -21,6 +21,9 @@
    
     }
     .box h2{
+        border: solid 1px #f3aeae;
+        border-radius: 4px;
+        padding: 5px;
         margin-bottom: 40px;
         text-align: center;
         font-size: 26px;
@@ -49,9 +52,7 @@ input {
    input::placeholder{
      font-size: 23px;
     }
-    checkbox {
 
-    }
     #button {
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 15px;
@@ -75,5 +76,13 @@ input {
       
       #button:hover {
         color: white;
-        background-color: black;
+        background: linear-gradient(rgba(232, 58, 49, 0.3) 0%,
+        rgba(244, 163, 113, 0.742) 100%);
+box-shadow: inset 0px 0px 8px rgb(245, 155, 137), 0 0 15px rgb(247, 174, 174);
+      }
+      img {
+        justify-content: center;
+        width: 400px;
+        height: 400px;
+        
       }
